@@ -1,0 +1,15 @@
+npm install -g npm@10.5.0 to update
+npm install express axios
+
+npm install multer
+
+
+npm start
+
+
+start in /server folder
+
+node server.js
+
+
+
